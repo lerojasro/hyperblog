@@ -1,0 +1,74 @@
+[33mcommit f2c6f66384d69160345d40337715136165110025[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 14:25:55 2022 -0500
+
+    una version del hyperblog
+
+[33mcommit e9cfc204d165039d2fb1cf0bb11b61cb36734dcc[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:18:38 2022 -0500
+
+    solucione el conflicto de las ramas
+
+[33mcommit 78fb21f05f6402b9156ed98a50640adcd363c7ff[m
+Merge: 52f5fdd 828971c
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:17:39 2022 -0500
+
+    solucione el conflicto de las ramas
+
+[33mcommit 52f5fdd7d4c0bb6aeb3eb00fc6e9a90b7fadb54d[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:14:01 2022 -0500
+
+    agregue suscripcion, cambie la cabecera, cambie el color
+
+[33mcommit 95d679edb10f8f1fd955c8a4cb45f386404cc1b9[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:13:10 2022 -0500
+
+    agregue suscripcion, cambie la cabecera, cambie el color
+
+[33mcommit 828971c7f772849b80b4651ce20fb99c4ebdcbc4[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:10:12 2022 -0500
+
+    modifique color y tu blog de cabecera
+
+[33mcommit 03fe0e3e3284ea3e52a62114879467ed9e721993[m
+Merge: a55cb36 55cda98
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Wed Jun 1 12:01:45 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit a55cb3682bdd19d540e7163ed9795a706b141c7e[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Tue May 31 22:51:33 2022 -0500
+
+    agregado el contenido adiicional del blog y mejor tipografia
+
+[33mcommit 55cda9856356451893f84c32fbf88996588ec3ae[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Tue May 31 22:46:23 2022 -0500
+
+    Finalizada la cabecera con diseño azol
+
+[33mcommit 5580c7cc0169ee4b84632357b9f43158611ae8a6[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Tue May 31 22:17:40 2022 -0500
+
+    tructura inicial de la cabecera
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 58d0b179f1ab7f7ae3c6e4ebc11dede05d2f1bec[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Tue May 31 22:06:54 2022 -0500
+
+    commit al cambio de color para crear una rama
+
+[33mcommit 370a5b17d19cd46bf1d1f5424c04f275ad3add0c[m
+Author: Leonardo Rojas Rojas <lerojasro@gmail.com>
+Date:   Tue May 31 10:31:07 2022 -0500
+
+    commit inicial de todo el proyecto
